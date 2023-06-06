@@ -40,7 +40,7 @@ zhconv==1.4.3
 > 1.nezha-cn-base模型需要下载，请移步到百度网盘： 
 链接：https://pan.baidu.com/s/1Er-EKCggygZmuhcGvByu3w 
 提取码：pn2y  
-下载完成后将.bin后缀模型，放到nezha-cn-base文件夹下
+下载完成后将.bin后缀模型，放到nezha-cn-base文件夹下  
 > 2.只需要查看榜上模型的效果，需要下载train_fgm_2.pth模型，移步到百度网盘:
 链接：https://pan.baidu.com/s/1wVBhfhTNP-06azJkaFhllQ   
 提取码：c5sb  
